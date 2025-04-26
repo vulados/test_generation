@@ -1,4 +1,4 @@
-module test_generation
+module github.com/vulados/test_generation
 
 go 1.24.0
 
